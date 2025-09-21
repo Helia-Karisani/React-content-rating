@@ -52,9 +52,4 @@ This project is a React application that allows users to rate content using "Lik
 
    ```
    http://localhost:4173
-   ```
 
-## 📘 Based On
-
-IBM Developer Skills Network Lab:
-**“Content Rating Application to Like or Dislike Content”**
